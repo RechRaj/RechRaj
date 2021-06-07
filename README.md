@@ -14,5 +14,4 @@ I'm Reshma
 - 🔭 Passionately working on AI and ML projects
 - 🌱 Currently learning essentials of Data Science.
 - 👯 Keen to collaborate on any OpenCV projects.
-- 🤔 I’m looking for help with 
 - 📫 How to reach me: Ping me on - reshmaraj5056@gmail.com
