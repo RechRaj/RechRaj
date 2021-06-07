@@ -9,7 +9,7 @@
 I'm Reshma 
   <br> Passionate coder, interested in AI and ML. 
 
-Here are some ideas to get you started:
+
 
 - 🔭 Passionately working on AI and ML projects
 - 🌱 Currently learning essentials of Data Science.
